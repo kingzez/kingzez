@@ -11,7 +11,8 @@
 
 
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=kingzez)
+![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=kingzez&show_icons=true&count_private=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingzez&layout=compact)
 
