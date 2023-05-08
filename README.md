@@ -11,11 +11,11 @@
 
 
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=kingzez&show_icons=true&count_private=true)
+![Vincent's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kingzez&show_icons=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingzez&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kingzez&layout=compact)
 
 <!--
-![Vincent's Github Stats](https://github-readme-stats.vercel.app/api?username=kingzez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
+![Vincent's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kingzez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
 -->
